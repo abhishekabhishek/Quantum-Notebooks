@@ -4,4 +4,12 @@ This repository contains Jupyter Notebooks for implementations of various quantu
 
 ### 1. Execution Requirements
 
+### 2. Setting up API access
+
+### 3. Quantum Computing Basics
+
+### 4. Quantum Algorithm Basics
+
+### 5. Algorithms
+
 
